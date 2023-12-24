@@ -1,6 +1,6 @@
 <!-- Replace the placeholders with your information -->
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Ajithan Arulgnanaselvam
 
 ## Front-End Software Engineer | React | Angular | Node.js | C# | .NET | MS SQL
 
@@ -30,7 +30,7 @@ Description of the project and its technologies.
 Let's connect and collaborate! You can reach me via:
 
 - [LinkedIn](link-to-your-linkedin)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:franklin.ajithan@gmail.com)
 
 ### Get in Touch:
 
